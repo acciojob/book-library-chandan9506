@@ -8,7 +8,9 @@ body{
 	width:80%;
 }
 .book{
-	margin:auto;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
 }
 .author{
 	color:#777777
